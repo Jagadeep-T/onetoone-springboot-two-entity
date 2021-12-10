@@ -1,1 +1,1 @@
-# onetoone-springboot-two-entity
+# spring-boot-one-table-two-entity-inactive
